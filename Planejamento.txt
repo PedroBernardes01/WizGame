@@ -1,0 +1,19 @@
+Base do jogo
+    terminar o personagem principal
+    terminar as magias básicas
+    descobrir sobre herança de objetos
+    fazer a base de inimigos
+    descobrir como e fazer um menu
+    fazer as musicas e os efeitos sonoros
+    melhorar os sprites
+1 Fase
+    projetar a fase: 3 areas - esgoto/cidade/mansao
+    projetar os inimigos destas area
+2 Fase
+    projetar a fase: 4 areas -inicio da caverna/Parte de Magma/fim da caverna/floresta
+    projetar os inimigos destas area
+3 Fase 
+    projetar a fase: 4 areas -Entrada do país/deserto/centro do país/saída do pais
+    projetar os inimigos destas area
+4 Fase
+    projetar a fase 2 areas -Entrada e interior do vulcão
